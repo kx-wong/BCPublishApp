@@ -1,0 +1,7 @@
+{
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "c:/Temp/",
+        "C:/Program Files/Assemblies"
+    ]
+}
